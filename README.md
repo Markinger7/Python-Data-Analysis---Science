@@ -1,4 +1,4 @@
-# Python-Data-Analysis---Science
+# Python-Data-Analysis-and-Science
 
 This repo contains noteboobs that summarize interesting articles regarding Data Analysis and Data Science with Python.
 
